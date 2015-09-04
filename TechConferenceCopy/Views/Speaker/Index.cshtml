@@ -1,0 +1,23 @@
+﻿@model TechConferenceCopy.Domain.Views.SpeakerViewModel
+@{
+    ViewBag.Title = "Index";
+
+    string fullName = String.Empty;
+    string picture = String.Empty;
+    string achievements = String.Empty;
+
+    if (Model != null)
+    {
+        fullName = Model.FullName;
+        picture = Model.PictureUrl;
+        achievements = Model.ShortAbstract;
+    }
+}
+
+<h4>Our Speakers</h4>
+
+<img src="@picture" /><br />
+<p>@fullName</p>
+<p>@achievements</p>
+
+

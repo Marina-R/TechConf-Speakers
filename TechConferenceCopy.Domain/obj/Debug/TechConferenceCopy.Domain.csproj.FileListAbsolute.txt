@@ -1,0 +1,14 @@
+c:\users\maryna\documents\visual studio 2013\Projects\TechConferenceCopy\TechConferenceCopy.Domain\obj\Debug\TechConferenceCopy.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy.Domain\bin\Debug\TechConferenceCopy.Domain.dll.config
+C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy.Domain\bin\Debug\TechConferenceCopy.Domain.dll
+C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy.Domain\bin\Debug\TechConferenceCopy.Domain.pdb
+C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy.Domain\obj\Debug\TechConferenceCopy.Domain.dll
+C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy.Domain\obj\Debug\TechConferenceCopy.Domain.pdb
