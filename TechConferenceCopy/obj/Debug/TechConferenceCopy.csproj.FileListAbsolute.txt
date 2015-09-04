@@ -32,3 +32,5 @@ C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechCon
 C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy\bin\EntityFramework.xml
 C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy\bin\EntityFramework.SqlServer.dll
+C:\Users\Maryna\Documents\Visual Studio 2013\Projects\TechConferenceCopy\TechConferenceCopy\bin\EntityFramework.SqlServer.xml
